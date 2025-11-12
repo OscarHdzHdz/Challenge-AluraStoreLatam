@@ -1,4 +1,4 @@
-# <center>Challenge-AluraStoreLatam</center>
+<center><h1>Challenge-AluraStoreLatam</h1></center>
 En este proyecto se realizó el análisis de 4 tiendas de la empresa Alura Store Latam para obtener información relevante que nos permita ayudar a determinar cuál es la tienda con menor rendimiento y poder hacer una recomendación basada en datos al dueño sobre qué tienda debe vender para poder iniciar su nuevo emprendimiento.
 
 ## Objetivo.
